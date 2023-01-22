@@ -1,3 +1,4 @@
+//all_even
 n=int(input())
 i=n
 while i>=1:
