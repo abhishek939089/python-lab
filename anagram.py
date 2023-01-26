@@ -1,3 +1,4 @@
+# Anagram program in python
 n=list(input("Enter string "))
 m=list(input("Enter 2nd string "))
 n.sort()
